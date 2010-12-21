@@ -58,7 +58,6 @@ class kynetx:
       print "Much puke."
       directives = '{"directives":[]}'
 
-    print directives
     self.parse_directives(directives)
     return directives
 
